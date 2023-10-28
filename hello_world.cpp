@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-# here was using namespace std;
+# here was using namespace std; heheh
 # some comment again
 
 int main() {
