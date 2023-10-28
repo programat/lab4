@@ -2,6 +2,7 @@
 #include <string>
 
 # here was using namespace std;
+# some comment again
 
 int main() {
     string name;
