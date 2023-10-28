@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+# here was using namespace std;
+
 int main() {
     string name;
     
